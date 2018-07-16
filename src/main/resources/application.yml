@@ -1,0 +1,7 @@
+spring:
+  main.banner-mode: "off"
+#debug: true
+---
+arquivo:
+  nome: "cidades.csv"
+  saida: "resultado.txt"
